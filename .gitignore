@@ -12,3 +12,4 @@
 **/*.h5
 dist
 MANIFEST
+*.egg-info/
